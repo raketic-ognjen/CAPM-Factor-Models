@@ -1,8 +1,8 @@
 # CAPM-Factor-Models
 About CAPM and Factor Models
 
-programming_language = [Python].
-libraries = [Numpy,SciPy,SymPy,Plotly,...]
+- programming_language = [Python].
+- libraries = [Numpy,SciPy,SymPy,Plotly,...]
 
 
 What i do in this project:
